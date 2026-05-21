@@ -1,0 +1,1 @@
+Este ejercicio pide abrir una ventana secundaria al pulsar un botón, para ello usamos un nuevo Stage dentro del setOnAction que se configura y muestra con su propio layout y Scene independiente de la ventana principal.
